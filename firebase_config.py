@@ -29,7 +29,7 @@ except Exception as e:
 
 # For client-side authentication (Pyrebase)
 FIREBASE_CONFIG = {
-    "apiKey": "AIzaSyDqoqBk-I4xhRCz9ZXbD9SJDOMvWimg5CQ",
+    "apiKey": "api-key",
     "authDomain": "legal-gov.firebaseapp.com",
     "projectId": "legal-gov",
     "storageBucket": "legal-gov.appspot.com",
